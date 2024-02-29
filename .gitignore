@@ -338,6 +338,10 @@ node_modules/
 # Godot
 .godot/
 
+# Godot
+.godot/
+dist/
+
 # output
 *.tif
 *.stl
